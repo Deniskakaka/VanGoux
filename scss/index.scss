@@ -1,0 +1,11 @@
+@import 'firstSector.scss';
+@import 'header.scss';
+@import 'featur.scss';
+@import 'users.scss';
+@import 'purpose.scss';
+@import 'consultation.scss';
+@import 'stories.scss';
+html {
+    font-family: $main-font;
+    font-weight: 600;
+}
