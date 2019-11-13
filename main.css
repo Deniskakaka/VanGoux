@@ -508,6 +508,7 @@
   padding: 0;
 }
 .page-header__navigation_lists_list {
+  width: 120px;
   font-style: normal;
   font-weight: 600;
   font-size: 14px;
@@ -1030,7 +1031,6 @@
 }
 .consultation__title {
   position: relative;
-  width: 1120px;
 }
 .consultation__title span {
   font-style: normal;
