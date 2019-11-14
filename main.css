@@ -802,7 +802,6 @@
 .who {
   position: relative;
   width: 1120px;
-  margin-left: 40px;
 }
 .who span {
   font-style: normal;
@@ -823,7 +822,6 @@
 @media screen and (max-width: 1024px) {
   .who {
     width: 520px;
-    margin-left: 0;
   }
 }
 .users {
@@ -852,7 +850,6 @@
   justify-content: space-between;
   width: 1120px;
   height: 340px;
-  margin-left: 40px;
 }
 .user-blocks .one, .user-blocks .two, .user-blocks .three, .user-blocks .four, .user-blocks .five, .user-blocks .six {
   display: flex;
@@ -915,7 +912,7 @@
 }
 .purpose-text {
   position: relative;
-  width: 1120px;
+  width: 1160px;
 }
 .purpose-text span {
   font-style: normal;
