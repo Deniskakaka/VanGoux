@@ -27,16 +27,17 @@
     .block2 {
         position: relative;
         top: 40px;
-        left: 74px;
+        left: 114px;
     }
     .block3 {
         position: relative;
         top: 80px;
-        right: -158px;
+        right: -198px;
     }
     .block1 {
         position: relative;
         display: flex;
+        left: 40px;
         &_img {
             display: flex;
             width: 320px;
@@ -127,9 +128,9 @@
 }
 
 .features-text {
-    top: -25px;
     position: relative;
     width: 1120px;
+    margin-left: 40px;
     & span {
         font-style: normal;
         font-size: 30px;

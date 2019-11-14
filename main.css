@@ -600,16 +600,17 @@
 .features__list .block2 {
   position: relative;
   top: 40px;
-  left: 74px;
+  left: 114px;
 }
 .features__list .block3 {
   position: relative;
   top: 80px;
-  right: -158px;
+  right: -198px;
 }
 .features__list .block1 {
   position: relative;
   display: flex;
+  left: 40px;
 }
 .features__list .block1_img {
   display: flex;
@@ -702,9 +703,9 @@
 }
 
 .features-text {
-  top: -25px;
   position: relative;
   width: 1120px;
+  margin-left: 40px;
 }
 .features-text span {
   font-style: normal;
