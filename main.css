@@ -148,6 +148,7 @@
   align-items: center;
   justify-content: space-around;
   background-color: white;
+  box-shadow: 0px 10px 40px rgba(25, 104, 252, 0.3);
 }
 .review__text {
   display: flex;
