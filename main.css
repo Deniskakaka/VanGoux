@@ -146,6 +146,7 @@
 
   .men {
     margin-bottom: 50px;
+    margin-top: 20px;
   }
 }
 .review {
@@ -957,7 +958,6 @@
   .purpose-blocks {
     width: 520px;
     height: 420px;
-    margin-bottom: 40px;
   }
 }
 .make {
