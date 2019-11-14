@@ -604,22 +604,21 @@
 }
 .features__list {
   position: relative;
-  width: 100%;
+  width: 1120px;
 }
 .features__list .block2 {
   position: relative;
   top: 40px;
-  left: 114px;
+  left: 64px;
 }
 .features__list .block3 {
   position: relative;
   top: 80px;
-  right: -198px;
+  right: -158px;
 }
 .features__list .block1 {
   position: relative;
   display: flex;
-  left: 40px;
 }
 .features__list .block1_img {
   display: flex;
@@ -803,6 +802,7 @@
 .who {
   position: relative;
   width: 1120px;
+  margin-left: 40px;
 }
 .who span {
   font-style: normal;
@@ -823,6 +823,7 @@
 @media screen and (max-width: 1024px) {
   .who {
     width: 520px;
+    margin-left: 0;
   }
 }
 .users {
@@ -881,6 +882,7 @@
   .user-blocks {
     width: 520px;
     height: 610px;
+    margin-left: 0;
   }
   .user-blocks .one, .user-blocks .two, .user-blocks .three, .user-blocks .four, .user-blocks .five, .user-blocks .six {
     width: 250px;

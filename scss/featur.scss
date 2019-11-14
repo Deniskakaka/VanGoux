@@ -22,22 +22,21 @@
 
 .features__list {
     position: relative;
-    width: 100%;
+    width: 1120px;
     ;
     .block2 {
         position: relative;
         top: 40px;
-        left: 114px;
+        left: 64px;
     }
     .block3 {
         position: relative;
         top: 80px;
-        right: -198px;
+        right: -158px;
     }
     .block1 {
         position: relative;
         display: flex;
-        left: 40px;
         &_img {
             display: flex;
             width: 320px;
