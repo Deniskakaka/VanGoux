@@ -851,6 +851,7 @@
   justify-content: space-between;
   width: 1120px;
   height: 340px;
+  margin-left: 40px;
 }
 .user-blocks .one, .user-blocks .two, .user-blocks .three, .user-blocks .four, .user-blocks .five, .user-blocks .six {
   display: flex;
@@ -978,6 +979,11 @@
   margin-left: 20px;
 }
 
+@media screen and (max-width: 1024px) {
+  .make {
+    align-self: center;
+  }
+}
 .build {
   display: flex;
   align-items: center;
@@ -997,6 +1003,11 @@
   margin-left: 20px;
 }
 
+@media screen and (max-width: 1024px) {
+  .build {
+    align-self: center;
+  }
+}
 .create {
   display: flex;
   align-items: center;

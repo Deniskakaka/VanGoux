@@ -83,6 +83,12 @@
     }
 }
 
+@include small_device {
+    .make {
+        align-self: center;
+    }
+}
+
 .build {
     display: flex;
     align-items: center;
@@ -99,6 +105,12 @@
         line-height: 40px;
         width: 420px;
         margin-left: 20px;
+    }
+}
+
+@include small_device {
+    .build {
+        align-self: center;
     }
 }
 
