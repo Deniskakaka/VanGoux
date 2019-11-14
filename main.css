@@ -113,7 +113,7 @@
     justify-content: center;
     bottom: 60px;
     z-index: 4;
-    margin-top: 35px;
+    margin-top: 45px;
   }
 }
 .blue {
@@ -839,7 +839,7 @@
     width: 640px;
     height: 710px;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
   }
   .users p {
     left: 0;
