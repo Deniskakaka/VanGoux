@@ -1,4 +1,4 @@
-@import 'varibels.scss';
+@import 'variables.scss';
 @import 'breakpoint.scss';
 .headline {
     position: relative;
@@ -24,7 +24,6 @@
         font-weight: 600;
         font-size: 40px;
         line-height: 60px;
-        font-family: $main-font;
         color: $main-black;
     }
     &__description {
