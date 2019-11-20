@@ -3,7 +3,7 @@ he has two point first 1024px this breakpoint mobile version
 more than 1024px it full version.
 
 # used technologies: 
-HTML-SCSS-CSS;
+**HTML**-**SCSS**-**CSS**;
 
 # link
 https://deniskakaka.github.io/macet2/
