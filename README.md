@@ -10,4 +10,4 @@ more than 1024px it full version.
 </ol>
 
 # link
-https://deniskakaka.github.io/macet2/
+https://deniskakaka.github.io/VanGoux/
