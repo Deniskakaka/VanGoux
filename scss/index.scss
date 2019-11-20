@@ -1,4 +1,7 @@
-@import 'firstSector.scss';
+@import 'variables.scss';
+@import 'breakpoint.scss';
+@import 'headline.scss';
+@import 'reviews.scss';
 @import 'header.scss';
 @import 'featur.scss';
 @import 'users.scss';
@@ -6,8 +9,7 @@
 @import 'consultation.scss';
 @import 'stories.scss';
 @import 'footer.scss';
-@import 'variables.scss';
-@import 'breakpoint.scss';
+@import 'wokflow.scss';
 html {
     font-family: $main-font;
     font-weight: 600;
