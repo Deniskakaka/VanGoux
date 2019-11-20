@@ -4,9 +4,9 @@ more than 1024px it full version.
 
 # used technologies: 
 <ol>
-  <li>**HTML</li>
-  <li>**CSS**</li>
-  <li>**SCSS**</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>SCSS</li>
 </ol>
 
 # link
