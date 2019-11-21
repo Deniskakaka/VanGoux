@@ -1155,7 +1155,7 @@
   text-transform: uppercase;
 }
 .blocks .step3_content_img {
-  background-image: url("img/IconUseCode.png");
+  background-image: url("https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson26/hw1/IconUseCode.png");
   background-position: center;
   background-repeat: no-repeat;
   width: 40px;
@@ -1225,7 +1225,7 @@
 }
 .blocks .step1 .decor {
   position: absolute;
-  background-image: url("img/DecorationJuju.png");
+  background-image: url("https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson26/hw1/DecorationJuju.png");
   width: 25px;
   height: 25px;
   right: -5px;
@@ -1273,7 +1273,7 @@
   text-transform: uppercase;
 }
 .blocks .step2_content_img {
-  background-image: url("img/IconDownload.png");
+  background-image: url("https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson26/hw1/IconDownload.png");
   background-position: center;
   background-repeat: no-repeat;
   width: 40px;
@@ -1289,7 +1289,7 @@
 }
 .blocks .step2 .decor {
   position: absolute;
-  background-image: url("img/DecorationJuju.png");
+  background-image: url("https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson26/hw1/DecorationJuju.png");
   width: 25px;
   height: 25px;
   right: -5px;
