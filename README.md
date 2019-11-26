@@ -9,4 +9,4 @@ it has two versions mobile up to 1024px and the full version from 1025px
 </ol>
 
 # link
-https://deniskakaka.github.io/VanGoux/ 
+https://deniskakaka.github.io/vangoux/.
