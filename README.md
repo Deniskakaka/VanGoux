@@ -1,4 +1,5 @@
-# vangoux this is my second scss-made layout
+# foundation 
+this is my second scss-made layout
 it has two versions mobile up to 1024px and the full version from 1025px
 
 # used technologies: 
