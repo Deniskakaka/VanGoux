@@ -1,6 +1,5 @@
-# macet2 this is my second maket made on the scss
+# macet2 this is my second scss-made layout
 it has two versions mobile up to 1024px and the full version from 1025px
- it full version.
 
 # used technologies: 
 <ol>
