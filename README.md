@@ -1,5 +1,5 @@
 # macet2 this is my second maket made on the scss
-he has two point first 1024px this breakpoint mobile version
+it has two versions mobile up to 1024px and the full version from 1025px
 more than 1024px it full version.
 
 # used technologies: 
